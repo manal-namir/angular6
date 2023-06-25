@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "TOSHIBA",
+      "price": 17000,
+      "checked": true
+    },
+    {
+      "id": 2,
+      "name": "DELL",
+      "price": 18000,
+      "checked": false
+    },
+    {
+      "id": 3,
+      "name": "HP",
+      "price": 19000,
+      "checked": false
+    },
+    {
+      "name": "MAC",
+      "price": "90000",
+      "checked": true,
+      "id": 4
+    },
+    {
+      "name": "mac",
+      "price": "9600",
+      "checked": true,
+      "id": 5
+    }
+  ]
+}
